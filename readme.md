@@ -1,4 +1,4 @@
-This is an template for a complete docker environment for Wordpress with nginx and and mysql.
+A complete docker environment template for Wordpress with nginx and and mysql.
 ----------------------------------------------------------------------------------------------
 First copy/rename the .env.example file to .env and configure the variables if needed.
 Then simply run ``` docker-compose up -d ```, visit localhost:8000 and stand developing you're website.
